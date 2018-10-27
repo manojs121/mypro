@@ -1,2 +1,4 @@
 first file in first
-branch
+branch.
+
+modified in first branch
